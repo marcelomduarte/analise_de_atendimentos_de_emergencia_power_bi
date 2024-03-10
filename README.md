@@ -1,0 +1,1 @@
+# analise_de_atendimentos_de_emergencia_power_bi
